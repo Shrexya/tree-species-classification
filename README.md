@@ -74,6 +74,7 @@ These experiments were used to compare different approaches to the classificatio
 
 ## Project Workflow
 
+```text
 Raw Image Dataset
         ↓
 Dataset Inspection
@@ -100,7 +101,7 @@ Basic CNN     EfficientNetB0
    └───────┬───────┘
            ↓
      Model Experiments
-
+```
 
 ## Technologies Used
 
@@ -117,6 +118,7 @@ Basic CNN     EfficientNetB0
 
 ## Repository Structure
 
+```text
 tree-species-classification/
 │
 ├── README.md
@@ -133,6 +135,7 @@ tree-species-classification/
 │   └── training_results/
 │
 └── requirements.txt
+```
 
 > The notebook names and folder structure may be adjusted according to the final organization of the original notebooks.
 
