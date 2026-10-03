@@ -100,7 +100,7 @@ Basic CNN     EfficientNetB0
    └───────┬───────┘
            ↓
      Model Experiments
-```
+
 
 ## Technologies Used
 
@@ -117,7 +117,6 @@ Basic CNN     EfficientNetB0
 
 ## Repository Structure
 
-```text
 tree-species-classification/
 │
 ├── README.md
@@ -134,7 +133,6 @@ tree-species-classification/
 │   └── training_results/
 │
 └── requirements.txt
-```
 
 > The notebook names and folder structure may be adjusted according to the final organization of the original notebooks.
 
